@@ -1,0 +1,4 @@
+1. a.https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#examples
+   b.https://www.w3schools.com/jsref/jsref_obj_array.asp
+
+2. a.https://www.w3schools.com/js/js_arrays.asp

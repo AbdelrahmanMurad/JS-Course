@@ -1,0 +1,9 @@
+1. JS Functions
+    a.https://www.w3schools.com/js/js_functions.asp
+    b.https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
+
+2. JS Function Rest Parameters
+    a.https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters
+
+3. JS Function Arguments vs Parameter
+    a.https://developer.mozilla.org/en-US/docs/Glossary/Parameter

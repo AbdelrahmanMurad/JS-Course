@@ -1,0 +1,15 @@
+* Loosely Typed vs Strongly Typed
+    Part 1. Loosely Typed Language:
+        A loosely typed language is a programming language that does not require a variable to be defined.
+        For example, Perl,js is a loosely typed language, you can declare a variable, 
+        but it doesn't require you to classify the type of variable.
+                *Is JavaScript is a loosely typed language?
+                JavaScript is loosely typed.
+                You don't have to tell that a string is a string,
+                nor you can require a function to accepts an integer as its parameter.
+                This gives JavaScript a lot of flexibility.
+
+    Part 2. Strongly Typed Language:
+        A strongly typed language is a programming language that does require a variable to be defined.
+        For example, Python,Java is a strongly typed language,
+        you can't declare a variable without classifying the type of variable.    

@@ -1,0 +1,2 @@
+1. a.https://javascript.plainenglish.io/the-secrets-surrounding-for-loops-in-javascript-3db58541caa9
+   b.https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration#for...in_statement 

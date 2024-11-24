@@ -1,0 +1,11 @@
+1. JavaScript flatten array
+    a.
+    b.
+
+2. JavaScript higher order functions
+    a.
+    b.
+
+3. JavaScript foreach this argument
+    a.
+    b.

@@ -1,0 +1,5 @@
+1. JavaScript Logical Or
+    link: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR  
+
+2. JavaScript Operators
+    link: https://www.w3schools.com/js/js_operators.asp

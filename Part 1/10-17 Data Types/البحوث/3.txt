@@ -1,0 +1,7 @@
+* Character Escape Sequences
+
+Link 1
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/escape
+
+Link 2
+https://www.tutorialspoint.com/escape-characters-in-javascript

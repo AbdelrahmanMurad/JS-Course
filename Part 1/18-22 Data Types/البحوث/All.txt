@@ -1,0 +1,8 @@
+1. JavaScript Defer Attribute
+    - https://www.w3schools.com/tags/att_script_defer.asp
+
+2. JavaScript Constructor
+    - https://www.w3schools.com/js/js_object_constructors.asp
+
+3. JavaScript Unary Use Cases
+    - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Unary_plus

@@ -1,0 +1,24 @@
+1. Function
+    a.https://www.w3schools.com/js/js_functions.asp
+    b.https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
+
+2. Currying Function Technique
+    a.https://medium.com/@harouny/currying-in-javascript-arrow-function-sequence-2a510441215a
+    b.https://blog.logrocket.com/understanding-javascript-currying/#:~:text=What%20is%20currying%20in%20JavaScript,functions%20with%20a%20single%20argument.
+    c.https://www.geeksforgeeks.org/what-is-currying-function-in-javascript/#:~:text=It%20is%20a%20technique%20in,%2C%20param3%2C%20%E2%80%A6..)
+
+3. javascript function arrow function
+    a.https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+    b.https://www.w3schools.com/js/js_arrow_function.asp
+
+4. JavaScript Scope
+    a.https://www.w3schools.com/js/js_scope.asp
+    b.https://developer.mozilla.org/en-US/docs/Glossary/Scope
+
+5. Execution Context (EC)
+    a.https://www.google.com/search?q=execution+context+javascript&sxsrf=ALiCzsZR_1ZeHJndWHBtEmitZzHPSRhNmw%3A1663235846534&ei=BvciY8_4H6eE9u8PlOKAaA&oq=execution+context+javasc&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyCAgAEB4QDxAWMggIABAeEA8QFjIICAAQHhAPEBY6CggAEEcQ1gQQsANKBAhBGABKBAhGGABQlxVY2hZg-yJoAXABeACAAaYBiAGsApIBAzAuMpgBAKABAcgBCMABAQ&sclient=gws-wiz
+    b.
+
+6. Lexical Environment
+    a.https://www.intervue.io/developer/short-note/what-is-a-lexical-environment-sandbox-5XTCDNYWG#:~:text=A%20lexical%20environment%20is%20a,hierarchy%20or%20in%20a%20sequence.
+    b.https://www.google.com/search?sxsrf=ALiCzsYefkpwho3xB-KZknfGczQL7F5anw:1663216984550&q=Lexical+Environment+js&spell=1&sa=X&ved=2ahUKEwjUkrGM_pX6AhXoRUEAHc8ZAFcQirwEKAB6BAgBEDQ&biw=1292&bih=612&dpr=1.02
